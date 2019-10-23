@@ -1,0 +1,3 @@
+﻿  Server.cpp
+\\mac\home\desktop\phoenixwin32 final\phoenixwin32\server.cpp(921): warning C4476: 'wprintf' : unknown type field character ']' in format specifier
+  PhoenixWin32.vcxproj -> \\Mac\Home\Desktop\PhoenixWin32 Final\Debug\PhoenixWin32.exe
